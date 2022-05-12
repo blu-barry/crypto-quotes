@@ -8,3 +8,8 @@ conan_basic_setup()
 
 add_executable(CryptoQuotes src/main.cpp)
 target_link_libraries(CryptoQuotes ${CONAN_LIBS})
+
+add_subdirectory(src/exchanges)
+add_subdirectory(src/exchanges/coinbase)
+add_subdirectory(src/exchanges/ftx)
+add_subdirectory(src/exchanges/nbx)
