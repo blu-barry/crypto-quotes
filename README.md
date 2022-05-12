@@ -1,2 +1,2 @@
 # crypto-quotes
-A program for connecting to the web sockets of various crypto exchanges and streaming crypto data.
+A program for connecting to various crypto exchanges and streaming crypto market data.
