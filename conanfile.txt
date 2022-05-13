@@ -1,5 +1,5 @@
 [requires]
-asio/1.22.1
+ixwebsocket/11.4.1
 
 [generators]
 cmake
