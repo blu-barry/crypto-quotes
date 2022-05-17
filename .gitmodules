@@ -1,0 +1,3 @@
+[submodule "src/external/websocketpp"]
+	path = src/external/websocketpp
+	url = git@github.com:blu-barry/websocketpp.git
